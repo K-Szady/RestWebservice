@@ -1,0 +1,5 @@
+Mucka,Kabanos,987654321,MALE
+Kinga,Zuchwala,856379052,FAMALE
+Adam,Mickierwcz,1234567890,MALE
+Kinga,Ruchala,84921795,null
+Anita,Glowala,76401029,FAMALE
